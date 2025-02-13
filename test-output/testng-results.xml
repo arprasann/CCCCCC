@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="9" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-08T21:08:29 IST" name="Suite" finished-at="2025-02-08T21:11:01 IST" duration-ms="151851">
+    <groups>
+    </groups>
+    <test started-at="2025-02-08T21:08:29 IST" name="Test" finished-at="2025-02-08T21:11:01 IST" duration-ms="151851">
+      <class name="com.actitime.scripts.VerifyInvalidLoginPage">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPage@f5ac9e4]" started-at="2025-02-08T21:09:32 IST" name="preCondtion" finished-at="2025-02-08T21:09:38 IST" duration-ms="5352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyInvalidLoginPage()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPage@f5ac9e4]" started-at="2025-02-08T21:09:38 IST" name="verifyInvalidLoginPage" finished-at="2025-02-08T21:09:43 IST" duration-ms="5174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPage -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPage@f5ac9e4]" started-at="2025-02-08T21:09:43 IST" name="postCondtion" finished-at="2025-02-08T21:09:45 IST" duration-ms="2395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyInvalidLoginPage -->
+      <class name="com.actitime.scripts.VerifyUsersCreation">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyUsersCreation@61862a7f]" started-at="2025-02-08T21:10:14 IST" name="preCondtion" finished-at="2025-02-08T21:10:19 IST" duration-ms="5106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifycreateUser()[pri:0, instance:com.actitime.scripts.VerifyUsersCreation@61862a7f]" started-at="2025-02-08T21:10:19 IST" name="verifycreateUser" finished-at="2025-02-08T21:10:36 IST" duration-ms="17346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycreateUser -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyUsersCreation@61862a7f]" started-at="2025-02-08T21:10:36 IST" name="postCondtion" finished-at="2025-02-08T21:10:38 IST" duration-ms="2332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyUsersCreation -->
+      <class name="com.actitime.scripts.VerifyVersion">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyVersion@402bba4f]" started-at="2025-02-08T21:09:00 IST" name="preCondtion" finished-at="2025-02-08T21:09:06 IST" duration-ms="6298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyVersion()[pri:0, instance:com.actitime.scripts.VerifyVersion@402bba4f]" started-at="2025-02-08T21:09:06 IST" name="verifyVersion" finished-at="2025-02-08T21:09:06 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersion -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyVersion@402bba4f]" started-at="2025-02-08T21:09:06 IST" name="postCondtion" finished-at="2025-02-08T21:09:09 IST" duration-ms="2618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyVersion -->
+      <class name="com.actitime.scripts.VerifyTasks">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyTasks@441772e]" started-at="2025-02-08T21:10:38 IST" name="preCondtion" finished-at="2025-02-08T21:10:43 IST" duration-ms="4840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyTask()[pri:0, instance:com.actitime.scripts.VerifyTasks@441772e]" started-at="2025-02-08T21:10:43 IST" name="verifyTask" finished-at="2025-02-08T21:10:52 IST" duration-ms="8421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTask -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyTasks@441772e]" started-at="2025-02-08T21:10:52 IST" name="postCondtion" finished-at="2025-02-08T21:10:54 IST" duration-ms="2357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyTasks -->
+      <class name="com.actitime.scripts.VerifyLoginPageandHomePageTitle">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyLoginPageandHomePageTitle@384ad17b]" started-at="2025-02-08T21:10:01 IST" name="preCondtion" finished-at="2025-02-08T21:10:06 IST" duration-ms="5528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyLoginPageandHomePageTitle()[pri:0, instance:com.actitime.scripts.VerifyLoginPageandHomePageTitle@384ad17b]" started-at="2025-02-08T21:10:06 IST" name="verifyLoginPageandHomePageTitle" finished-at="2025-02-08T21:10:11 IST" duration-ms="4912" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <a href="/logout.do" id="logoutLink" class="logout">...</a> is not clickable at point (1309, 17). Other element would receive the click: <div id="preInsertedTransformedMoireId" class="transformedMoireClass" style="transition: opacity 600ms ease-in-out; opacity: 0;"></div>
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.28.0', revision: 'ac342546e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4e80ddeb9609a00c577a788b10348e2, clickElement {id=f.A06E6F67E5FADBD3554999B0467AA53A.d.7EE86D342F58D81AD6B20220F4583B6A.e.65}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Bevin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51399}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51399/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f4e80ddeb9609a00c577a788b10348e2)] -> id: logoutLink]
+Session ID: f4e80ddeb9609a00c577a788b10348e2]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/logout.do" id="logoutLink" class="logout">...</a> is not clickable at point (1309, 17). Other element would receive the click: <div id="preInsertedTransformedMoireId" class="transformedMoireClass" style="transition: opacity 600ms ease-in-out; opacity: 0;"></div>
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.28.0', revision: 'ac342546e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4e80ddeb9609a00c577a788b10348e2, clickElement {id=f.A06E6F67E5FADBD3554999B0467AA53A.d.7EE86D342F58D81AD6B20220F4583B6A.e.65}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Bevin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51399}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51399/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f4e80ddeb9609a00c577a788b10348e2)] -> id: logoutLink]
+Session ID: f4e80ddeb9609a00c577a788b10348e2
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy14.click(Unknown Source)
+at com.actitime.pom.Logout.clickOnLogoutButton(Logout.java:25)
+at com.actitime.scripts.VerifyLoginPageandHomePageTitle.verifyLoginPageandHomePageTitle(VerifyLoginPageandHomePageTitle.java:24)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageandHomePageTitle -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyLoginPageandHomePageTitle@384ad17b]" started-at="2025-02-08T21:10:11 IST" name="postCondtion" finished-at="2025-02-08T21:10:14 IST" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyLoginPageandHomePageTitle -->
+      <class name="com.actitime.scripts.VerifyVersionE">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyVersionE@4f209819]" started-at="2025-02-08T21:08:29 IST" name="preCondtion" finished-at="2025-02-08T21:08:35 IST" duration-ms="6027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyVersionE()[pri:0, instance:com.actitime.scripts.VerifyVersionE@4f209819]" started-at="2025-02-08T21:08:35 IST" name="verifyVersionE" finished-at="2025-02-08T21:08:36 IST" duration-ms="626" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [actiTIME 2016.3]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [actiTIME 2016.3]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.actitime.pom.Version.verifyVersion(Version.java:25)
+at com.actitime.scripts.VerifyVersionE.verifyVersionE(VerifyVersionE.java:21)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersionE -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyVersionE@4f209819]" started-at="2025-02-08T21:08:36 IST" name="postCondtion" finished-at="2025-02-08T21:08:38 IST" duration-ms="2453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyVersionE -->
+      <class name="com.actitime.scripts.VerifyReportsDownload">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyReportsDownload@6e171cd7]" started-at="2025-02-08T21:08:38 IST" name="preCondtion" finished-at="2025-02-08T21:08:43 IST" duration-ms="4407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyReportsDownload()[pri:0, instance:com.actitime.scripts.VerifyReportsDownload@6e171cd7]" started-at="2025-02-08T21:08:43 IST" name="verifyReportsDownload" finished-at="2025-02-08T21:08:57 IST" duration-ms="14841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReportsDownload -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyReportsDownload@6e171cd7]" started-at="2025-02-08T21:08:57 IST" name="postCondtion" finished-at="2025-02-08T21:09:00 IST" duration-ms="2568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyReportsDownload -->
+      <class name="com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle@dbf57b3]" started-at="2025-02-08T21:09:53 IST" name="preCondtion" finished-at="2025-02-08T21:09:58 IST" duration-ms="5203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyValidLoginPageandTitle()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle@dbf57b3]" started-at="2025-02-08T21:09:58 IST" name="verifyValidLoginPageandTitle" finished-at="2025-02-08T21:09:58 IST" duration-ms="20" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [] but found [actiTIME - Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [] but found [actiTIME - Login]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.actitime.pom.BasePage.verifyTitle(BasePage.java:21)
+at com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle.verifyValidLoginPageandTitle(VerifyValidLoginPageLoginPageandHomePageTitle.java:25)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPageandTitle -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle@dbf57b3]" started-at="2025-02-08T21:09:58 IST" name="postCondtion" finished-at="2025-02-08T21:10:01 IST" duration-ms="2491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyValidLoginPageLoginPageandHomePageTitle -->
+      <class name="com.actitime.scripts.VerifyValidLoginPage">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPage@59fd97a8]" started-at="2025-02-08T21:09:23 IST" name="preCondtion" finished-at="2025-02-08T21:09:28 IST" duration-ms="5030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyValidLoginPage()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPage@59fd97a8]" started-at="2025-02-08T21:09:28 IST" name="verifyValidLoginPage" finished-at="2025-02-08T21:09:30 IST" duration-ms="2295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPage -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyValidLoginPage@59fd97a8]" started-at="2025-02-08T21:09:30 IST" name="postCondtion" finished-at="2025-02-08T21:09:32 IST" duration-ms="2421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyValidLoginPage -->
+      <class name="com.actitime.scripts.VerifyCheckBox">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyCheckBox@123ef382]" started-at="2025-02-08T21:09:45 IST" name="preCondtion" finished-at="2025-02-08T21:09:50 IST" duration-ms="5112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyCheckBox()[pri:0, instance:com.actitime.scripts.VerifyCheckBox@123ef382]" started-at="2025-02-08T21:09:50 IST" name="verifyCheckBox" finished-at="2025-02-08T21:09:51 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBox -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyCheckBox@123ef382]" started-at="2025-02-08T21:09:51 IST" name="postCondtion" finished-at="2025-02-08T21:09:53 IST" duration-ms="2346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyCheckBox -->
+      <class name="com.actitime.scripts.VerifyHomePage">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyHomePage@795cd85e]" started-at="2025-02-08T21:09:09 IST" name="preCondtion" finished-at="2025-02-08T21:09:15 IST" duration-ms="6413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyHomePage()[pri:0, instance:com.actitime.scripts.VerifyHomePage@795cd85e]" started-at="2025-02-08T21:09:15 IST" name="verifyHomePage" finished-at="2025-02-08T21:09:20 IST" duration-ms="4713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyHomePage@795cd85e]" started-at="2025-02-08T21:09:20 IST" name="postCondtion" finished-at="2025-02-08T21:09:23 IST" duration-ms="2486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyHomePage -->
+      <class name="com.actitime.scripts.VerifyInvalidLoginPageE">
+        <test-method is-config="true" signature="preCondtion()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPageE@7334aada]" started-at="2025-02-08T21:10:54 IST" name="preCondtion" finished-at="2025-02-08T21:10:58 IST" duration-ms="4451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondtion -->
+        <test-method signature="verifyInvalidLoginPageE()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPageE@7334aada]" started-at="2025-02-08T21:10:58 IST" name="verifyInvalidLoginPageE" finished-at="2025-02-08T21:10:58 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPageE -->
+        <test-method is-config="true" signature="postCondtion()[pri:0, instance:com.actitime.scripts.VerifyInvalidLoginPageE@7334aada]" started-at="2025-02-08T21:10:58 IST" name="postCondtion" finished-at="2025-02-08T21:11:01 IST" duration-ms="2448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondtion -->
+      </class> <!-- com.actitime.scripts.VerifyInvalidLoginPageE -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
